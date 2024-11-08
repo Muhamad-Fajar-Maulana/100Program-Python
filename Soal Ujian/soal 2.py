@@ -1,0 +1,7 @@
+# IBUAT OLEH MUHAMAD FAJAR MAULANA
+# TANGGAL 08-11-2024
+# MENGERJAKAN SOAL UJIAN NO 2
+
+print('Hello, World!')
+print(25.75)
+print(42)
