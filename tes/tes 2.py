@@ -1,5 +1,5 @@
 # DIBUAT OLEH MUHAMAD FAJAR MAULANA
-# TANGGAL 08-11-2024
+# TANGGAL 19-11-2024
 # TES 2
 
 inputan = int(input('Input 1-100: '))
